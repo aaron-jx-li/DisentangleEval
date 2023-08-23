@@ -47,3 +47,5 @@ Follow steps in `setup.sh` to setup the code repo
 Use `run_pretrain_single.sh` to run on a single node
 
 Use `run_pretrain_multi.sh` and the corresponding slurm template to run on multiple GPUs and nodes
+
+
